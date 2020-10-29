@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\crims\.gradle\caches\transforms-2\files-2.1\af71e38157d7d9f29a554380d899b880\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\crims\.gradle\caches\transforms-2\files-2.1\cc1767e63859823ce51e9d4fcf4685f8\AndroidManifest.xml:14:4-17:12
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\crims\.gradle\caches\transforms-2\files-2.1\af71e38157d7d9f29a554380d899b880\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\crims\.gradle\caches\transforms-2\files-2.1\af71e38157d7d9f29a554380d899b880\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\crims\.gradle\caches\transforms-2\files-2.1\cc1767e63859823ce51e9d4fcf4685f8\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\crims\.gradle\caches\transforms-2\files-2.1\cc1767e63859823ce51e9d4fcf4685f8\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:9:9-40
+activity#monte.com.tipcalculatorapp.TipCalculator
+ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:11:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\crims\.gradle\caches\transforms-2\files-2.1\af71e38157d7d9f29a554380d899b880\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\crims\.gradle\caches\transforms-2\files-2.1\af71e38157d7d9f29a554380d899b880\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\crims\.gradle\caches\transforms-2\files-2.1\cc1767e63859823ce51e9d4fcf4685f8\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\crims\.gradle\caches\transforms-2\files-2.1\cc1767e63859823ce51e9d4fcf4685f8\AndroidManifest.xml:15:5-42
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\crims\Desktop\Tip-Calculator-master\app\src\main\AndroidManifest.xml
